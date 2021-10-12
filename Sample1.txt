@@ -1,0 +1,2 @@
+hello all
+this file is created to check the git commands.
